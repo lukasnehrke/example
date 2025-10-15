@@ -1,0 +1,6 @@
+Copyright 2014-present Olivier Lalonde <olalonde@gmail.com> , James Talmage <james@talmage.io> , Ruben Verborgh
+Copyright (c) 2014 Jonathan Ong
+Copyright (c) 2016-2018 Rob Wu <rob@robwu.nl>
+Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com>
+Copyright (c) 2012 Felix Geisendorfer (felix@debuggable.com) and contributors
+Copyright (c) 2023 Matt Zabriskie and contributors
